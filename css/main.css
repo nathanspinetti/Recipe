@@ -1,0 +1,91 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	color:#212121;
+	line-height: 1.7;
+}
+
+/*General*/
+
+/*Header*/
+header{
+	background-image: url(../img/1qbkls.png);
+	padding:1.5rem 5%;
+}
+.logo h1{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 1.5rem;
+	color:#d7ccc8;
+}
+.menu a{
+	color:#d7ccc8;
+	text-decoration: none;
+}
+
+/*Main Content*/
+main{
+	background-image: url(../img/light-veneer.png);
+	padding:3rem 5%;
+}
+main h1{
+	font-size: 3rem;
+	color:#1b5e20;
+	font-family:'Open Sans',serif;
+}
+main h2{
+	color:#1b5e20;
+	font-family:'Open Sans',serif;
+}
+main h3{
+	color:#1b5e20;
+	font-family:'Open Sans',serif;
+}
+main h4{
+	color:#1b5e20;
+	font-family:'Open Sans',serif;
+}
+main p{
+	color:#4e342e;
+	font-family:'Raleway',serif;
+}
+main li{
+	color:#4e342e;
+	font-family:'Raleway',serif;
+}
+/*Column Left*/
+.col-left img{
+	width: 100%;
+}
+
+/*Inner Column*/
+
+/*Column Right*/
+
+/*Ingredients Lists*/
+.Ingredients ul{
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+.Ingredients li{
+	padding:.5rem 0;
+	border-top:1px dotted #bdbdbd;
+}
+
+/*Footer*/
+footer{
+	padding:1.5rem 5%;
+	background-color: #bdbdbdbd;
+}
+footer p{
+	margin:0;
+	color:#757575;
+}
+footer a{
+	text-decoration: underline; 
+	font-family: 'Open Sans', sans-serif;
+	color:#d50000;
+	background-color: 
+}
+a:hover{
+	color:#1b5e20;
+}
